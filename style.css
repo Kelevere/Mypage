@@ -3,6 +3,14 @@ html, body {
   width: 100%;
   background-color: #626293;
 }
+h1{
+  color: white;
+  font-size: 30px;
+}
+h2{
+  color: white;
+  font-size: 30px; 
+}
 
 #navegar{
   color: white;
